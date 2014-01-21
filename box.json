@@ -1,0 +1,10 @@
+{
+	"directories" : [
+		"src/"
+	],
+	"main" : "main.php",
+	"chmod": "0755",
+	"output" : "build/oneSync.phar",
+	"web" : false,
+	"stub": true
+}
